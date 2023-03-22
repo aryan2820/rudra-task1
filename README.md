@@ -1,0 +1,1 @@
+Hello, This is the website which i have made for the recruitment task of rudra club if srm university.I am no that good in web devlopment so i have created the website to the best of my knowledge using html basics and css.This code of mine includes my knowledge of how i have changed the colour and insert images, aligning the text and etcetra. 
